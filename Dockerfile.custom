@@ -1,0 +1,15 @@
+FROM acore/ac-wotlk-dev:14.0.0-dev
+
+WORKDIR /azerothcore
+
+# Copy AzerothCore source + modules
+COPY . .
+
+# Build AzerothCore + modules
+RUN mkdir -p build \
+ && cd build \
+ && cmake .. \
+      -DCMAKE_INSTALL_PREFIX=/opt/azerothcore \
+      -DCMAKE_BUILD_TYPE=Release \
+ && make -j$(nproc) \
+ && make install
