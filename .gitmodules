@@ -1,0 +1,40 @@
+[submodule "modules/mod-playerbots"]
+	path = modules/mod-playerbots
+	url = https://github.com/liyunfan1223/mod-playerbots
+	branch = master
+[submodule "modules/mod-no-hearthstone-cooldown"]
+	path = modules/mod-no-hearthstone-cooldown
+	url = https://github.com/BytesGalore/mod-no-hearthstone-cooldown
+	branch = main
+[submodule "modules/mod-progression-system"]
+	path = modules/mod-progression-system
+	url = https://github.com/azerothcore/mod-progression-system
+	branch = main
+[submodule "modules/mod-auto-revive"]
+	path = modules/mod-auto-revive
+	url = https://github.com/azerothcore/mod-auto-revive
+	branch = master
+[submodule "modules/mod-instance-reset"]
+	path = modules/mod-instance-reset
+	url = https://github.com/azerothcore/mod-instance-reset
+	branch = master
+[submodule "modules/mod-improved-bank"]
+	path = modules/mod-improved-bank
+	url = https://github.com/silviu20092/mod-improved-bank
+	branch = master
+[submodule "modules/mod-learnspells"]
+	path = modules/mod-learnspells
+	url = https://github.com/noisiver/mod-learnspells
+	branch = master
+[submodule "modules/mod-npc-enchanter"]
+	path = modules/mod-npc-enchanter
+	url = https://github.com/azerothcore/mod-npc-enchanter
+	branch = master
+[submodule "modules/mod-npc-buffer"]
+	path = modules/mod-npc-buffer
+	url = https://github.com/azerothcore/mod-npc-buffer
+	branch = master
+[submodule "modules/mod-npc-talent-template"]
+	path = modules/mod-npc-talent-template
+	url = https://github.com/azerothcore/mod-npc-talent-template
+	branch = master
