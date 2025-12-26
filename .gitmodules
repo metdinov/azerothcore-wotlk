@@ -8,7 +8,7 @@
 	branch = main
 [submodule "modules/mod-progression-system"]
 	path = modules/mod-progression-system
-	url = https://github.com/azerothcore/mod-progression-system
+	url = git@github.com:metdinov/mod-progression-system.git
 	branch = main
 [submodule "modules/mod-auto-revive"]
 	path = modules/mod-auto-revive
@@ -20,11 +20,11 @@
 	branch = master
 [submodule "modules/mod-improved-bank"]
 	path = modules/mod-improved-bank
-	url = https://github.com/silviu20092/mod-improved-bank
+	url = git@github.com:metdinov/mod-improved-bank.git
 	branch = master
 [submodule "modules/mod-learnspells"]
 	path = modules/mod-learnspells
-	url = https://github.com/noisiver/mod-learnspells
+	url = git@github.com:metdinov/mod-learnspells.git
 	branch = master
 [submodule "modules/mod-npc-enchanter"]
 	path = modules/mod-npc-enchanter
